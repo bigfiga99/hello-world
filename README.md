@@ -1,2 +1,2 @@
 # hello-world
-First one.
+Hello I'm still learning but I look forward to contributing.
